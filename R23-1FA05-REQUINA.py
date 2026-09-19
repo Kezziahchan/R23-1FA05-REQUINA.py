@@ -20,3 +20,4 @@ distance = math.sqrt(
 # Display the result
 print()
 print(f"The distance between the two points is: {distance:.2f}")
+ 
