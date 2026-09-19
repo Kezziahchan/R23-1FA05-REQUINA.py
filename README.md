@@ -1,6 +1,6 @@
 # Distance Calculator
 
-## Description
+## The Description
 
 This Python program calculates the distance between two points using their x and y coordinates. It uses the `math` library, including the `sqrt()` and `pow()` functions, to perform the calculation.
 
